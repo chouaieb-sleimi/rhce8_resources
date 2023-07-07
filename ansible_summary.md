@@ -33,7 +33,35 @@
 
 ---
 
-## Quick Setup Lab
+## Documentation
+
+[Ansible Galaxy](https://galaxy.ansible.com)
+
+[Ansible Docs](https://docs.ansible.com)
+
+[Ansible Docs - Galaxy](https://docs.ansible.com/galaxy.html)
+
+[RHEL8 RHCE Exam Presntation (EX294)](https://www.certdepot.net/rhel8-rhce-ex294/)
+
+[RHEL8 RHCE Exam objectives](https://www.certdepot.net/rhel8-rhce-exam-objectives/)
+
+---
+
+## Labs
+
+[Sample Exam – RHCE 8 EX294](https://networknuts.net/sample-exam-ex294/)
+
+[Github RHCE](https://github.com/search?o=desc&q=rhce&s=stars&type=Repositories)
+
+---
+
+## Tools
+
+[Modern UI for Ansible](https://ansible-semaphore.com)
+
+[Ansible Automation Hub (Partners Share Center)](https://console.redhat.com/ansible/automation-hub)
+
+### Quick Setup Lab
 
 generate
 
